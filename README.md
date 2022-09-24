@@ -2,7 +2,7 @@
 - 👀 I’m interested in COMPUTER
 - 🌱 I’m currently learning CORE JAVA
 - 💞️ I’m looking to collaborate on C,C++
-- 📫 How to reach me <a href="https://instagram.com/subasis_2?igshid=YmMyMTA2M2Y=" target="_blank">Subasis.com</a> 
+- 📫 How to reach me <a href="https://instagram.com/subasis_2?igshid=YmMyMTA2M2Y="target="_blank">Subasis.com</a> 
 
 <!---
 Devsubasis/Devsubasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
